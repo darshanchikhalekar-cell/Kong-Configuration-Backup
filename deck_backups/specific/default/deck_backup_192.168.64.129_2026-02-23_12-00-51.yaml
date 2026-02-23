@@ -1,0 +1,1076 @@
+_format_version: "3.0"
+_workspace: default
+certificates:
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: 0483822a-c4a8-41c4-983c-5d3ec226844d
+  key: |
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: 6ed6f33f-680d-4c05-adb0-2ef4d7863bfb
+  key: |-
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: a92370b5-dd0d-4113-b748-578eaefd7f3d
+  key: |
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: c50ae3b3-b50f-4862-b2f2-c615fb5db3c4
+  key: |-
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+  tags:
+  - Demo Certificate
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: c69a29b4-0762-441d-a0ca-a81d5db45e7c
+  key: |
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+  tags:
+  - Certi12527
+- cert: |-
+    -----BEGIN CERTIFICATE-----
+    MIIDrTCCApWgAwIBAgIUBO3YbHRXH6xIPSe6Fa4FdO2Mmf0wDQYJKoZIhvcNAQEL
+    BQAwZjELMAkGA1UEBhMCQVUxEzARBgNVBAgMClNvbWUtU3RhdGUxITAfBgNVBAoM
+    GEludGVybmV0IFdpZGdpdHMgUHR5IEx0ZDEfMB0GCSqGSIb3DQEJARYQZGVtby5l
+    eGFtcGxlLmNvbTAeFw0yNjAxMjAwNzExMjBaFw0yNzAxMjAwNzExMjBaMGYxCzAJ
+    BgNVBAYTAkFVMRMwEQYDVQQIDApTb21lLVN0YXRlMSEwHwYDVQQKDBhJbnRlcm5l
+    dCBXaWRnaXRzIFB0eSBMdGQxHzAdBgkqhkiG9w0BCQEWEGRlbW8uZXhhbXBsZS5j
+    b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCp5NqzhCZu1Vwlw0U6
+    A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9reJ2Qp
+    4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E1bLT
+    +mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPemBOJv
+    9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEseTs+
+    UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgpurlM
+    r71VAgMBAAGjUzBRMB0GA1UdDgQWBBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAfBgNV
+    HSMEGDAWgBQ1Y4Cx8TDNVcrAYoJnxZrFOPsaOjAPBgNVHRMBAf8EBTADAQH/MA0G
+    CSqGSIb3DQEBCwUAA4IBAQBl/RgPaHdFtfxFtrSefTWndOfAbTGXm28LUEz2P6u+
+    YtjzkrjrUNC+tMBRKSI8HaAOMQofVx93Y1Ugv1IUhmFmVXfjKk0oGJEE/Lw9BPDO
+    v2ZtrWDPSPEPEuKfnA8iugo75c+lGumN5sqN4gTJ6NnY+jVIaReevSR0AgtvwrIk
+    YRxOz5o4eljHnmFqXLmruLO5ONslL+Q269FaP97ltB/D/MDnqww7SlOn4VLwOsLP
+    nuiIhWdamjF/kufdJE3y+9eUI2cZQkg4JhmhzUXleFH+3aY+E8OG9IoXjVMWI4T4
+    5bkV4tiRj2EirnE+TwpiYHxaMhrK/oBaLXLq2OKK7EpQ
+    -----END CERTIFICATE-----
+  id: de74e47f-0361-41fe-91a0-8c3b020b92ad
+  key: |-
+    -----BEGIN PRIVATE KEY-----
+    MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCp5NqzhCZu1Vwl
+    w0U6A/3Gr2xsUBA4KvOikEoxFjJFuPMjySC3MO1mqeSc5gpiuZXsAU1W+eKcm9re
+    J2Qp4eKt8sLM8xXJWvkCvCUu4z2LGy8gyodA+tahhxlJwn8DchB32QLpi9LCGv8E
+    1bLT+mE1HEXTMlHAdju0v4Ul3HGx1iTiZ3pktLcO6pCK3LJWpNJI3NzJjYwFLPem
+    BOJv9tazBQO4LCvrcnzTaHBOSR8Rchakp85l0KIGr8OIQzZ3awQmj6s+gvvycGEs
+    eTs+UlYFujIy/EsTpGIy5Bnjqp4betUwZ/SqXtM43EuOzmTydqELmWLNQvBGFAgp
+    urlMr71VAgMBAAECggEAEYoCiPtY02Lb8TsUQ73DPnaAQTtPvVizz8HJIwGpXXjP
+    Qw/BvJ/Etm9OHmOCSXhi0Zs9zn+cJTJS2VHkPY2oDvCrqyhiRKgLYnylcw57HUgI
+    aMB3z53FuCXAFtUJM0Qcjp7c9drdPnQ2hRuBq3AjBm5diATfGzkph0qpVoQIScVI
+    K1Vfgc7gz5sRZ2yB7kqFovYJusPQ6CFLVenrs2yXeOZ80Wu6JPBBDT5ly0LbktFx
+    zUbd9lSIbdIAJX+sJFf5TUdhuaUgv2xBYG0DMy7jJgL+b3byOvccyCkmOEVCgzxF
+    YKyz76bi29KvonkldVacRugbk+c59GskkJ1xM7USwQKBgQDqwQ+kuDZqO8es6+g/
+    LT0W2BmIVK4WqKkzEPkGCYASpLorx+OFCatw1B+29I8LDwPN7YJXY3Mf+5qEP4Jh
+    0/jLdMwjIfJTaXyL2dsgb7Fqc9WigMHFifMb6TqS1KHJK67s5/7Gu5q/7v6zExEX
+    tl5m08FkslLFyZpyCazVFhY6QQKBgQC5RRHXUBki/IQtxgaNG2g1OLgHNYCowaM9
+    m4QuJ4KL9jqo3z7lkpi+UQ2Z7gaXlU5t/vvyrJGQEVQw/bWKS93YWabjcPBpGSbO
+    5JcGObvzvLg6IMG++CMUsPFRzic20qaayLJCNa4tKVyDnoyFqSPeGg0Ko3a403Dp
+    q6CpP0N2FQKBgBZx4wcCveEmWg8Edy4jKyYV/0rznbl44sSJKOYU3nPp4Arzj6NW
+    q1ecUHPzqgGKq/hybvXgAk/ahImEcPjdhXoebq4lPsAO4+OTLspJI5NkA9cHrH8w
+    k1fl0r3bKqTLUmxAOjHSGhejyCJi/k1gGGKIeIMiMZvLjMK+fhHZjMKBAoGAXB8u
+    9tvaE95xrvz3RvSoxUX1o4gD+GWIUNriR7zXmdaOZmfTM33IO2G8HJ0RZBAWlnUi
+    PBF4s6UaMt4EhcahgbFaXV9L+0ZJWLirK6pLfa+J/0VIcTea4e/1nlKehxEJTI+c
+    q3VbrRMS8FNG1jM7JXXYpECRiOeCDn6LfXx6g90CgYEA6MYqlCN/ybYHYqmN92CC
+    +xThdw4M+knhz/K0oy+kCiDsY0wHzxQWlQITedqWGUWpT2kW6Y0dG8b3Iqp25YRH
+    JMq7D2p7UjtS9TJIbZjpbIyiupDWqTYbLO1kFVW+L4dM4/0cMATig+uRo/qIEP9T
+    uzELVN9H6YPP/j2vRoZ6vpM=
+    -----END PRIVATE KEY-----
+  tags:
+  - CertiFinalworking
+consumers:
+- basicauth_credentials:
+  - password: 11175fb96773627fcadca8d83a095d1e2c10d48c
+    username: abc
+  keyauth_credentials:
+  - key: XywgDZuBFaEsUjgS9Hi5pQkZ6MfAlilC
+  username: Cars24
+- keyauth_credentials:
+  - key: irl2NyDBXIYkbnLtGD6Ppl3LNPeXfOME
+  username: Cars_35
+- keyauth_credentials:
+  - key: LyAekqLgbfXlUijMYvLnrYdVmKtyfzYL
+  username: Demo_Consumer
+- keyauth_credentials:
+  - key: 71SINXzSO9vcLTxE5AEkRNltKiYM7zY2
+  username: Demo_Consumer2
+- keyauth_credentials:
+  - key: 7ASchRtMxsiiW1ihcZSfL64Nddoz6f0x
+  username: Demo_Consumer25
+- keyauth_credentials:
+  - key: ILCh7EmkXOcJ6PwDYCupDJl5lNTH9hTO
+  username: Demo_Consumer26
+- keyauth_credentials:
+  - key: BrlVUdwA7aeHjyYFUiZ1kbHx22mXvLmw
+  username: Demo_Consumer3
+- acls:
+  - group: Default
+  basicauth_credentials:
+  - password: ef299e265915ff1264cfd6320d2114a5d878ff22
+    username: qwe
+  keyauth_credentials:
+  - key: yJREge03BLPurxXwMtIQ5R6EUIqP7Jv2
+  username: partner-basic
+- acls:
+  - group: Premium
+  basicauth_credentials:
+  - password: c931a71c37e24f5a15709e90e9bc7632e6cb2dc7
+    username: xyz
+  keyauth_credentials:
+  - key: 14J3gKZou7WWNPZ13qB6mRAPWfFrEtez
+  username: partner-premium
+- keyauth_credentials:
+  - key: hwRzExGIqG0Qh0HUadrFR0OoILL0XiKl
+  username: raju_client
+- username: sdsd
+plugins:
+- config:
+    allow:
+    - Default
+    always_use_authenticated_groups: false
+    deny: null
+    hide_groups_header: false
+    include_consumer_groups: false
+  enabled: true
+  name: acl
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: 3fields
+  service: mock-json-service
+- config:
+    allow:
+    - Premium
+    always_use_authenticated_groups: false
+    deny: null
+    hide_groups_header: false
+    include_consumer_groups: false
+  enabled: true
+  name: acl
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: premium-route
+  service: partner-data-service
+- enabled: false
+  name: add-fixed-header
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+- enabled: false
+  name: add-response-header
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+- config:
+    content_type: application/json
+    custom_fields_by_lua: {}
+    flush_timeout: null
+    headers: {}
+    http_endpoint: http://192.168.0.181:8080
+    keepalive: 60000
+    method: POST
+    queue:
+      concurrency_limit: 1
+      initial_retry_delay: 0.01
+      max_batch_size: 1
+      max_bytes: null
+      max_coalescing_delay: 1
+      max_entries: 10000
+      max_retry_delay: 60
+      max_retry_time: 60
+    queue_size: null
+    retry_count: null
+    ssl_verify: null
+    timeout: 10000
+  enabled: true
+  name: http-log
+  protocols:
+  - http
+  - https
+- enabled: false
+  name: json-to-xml
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+- config:
+    anonymous: null
+    claims_to_verify: null
+    cookie_names: []
+    header_names:
+    - authorization
+    key_claim_name: iss
+    maximum_expiration: 0
+    realm: null
+    run_on_preflight: true
+    secret_is_base64: false
+    uri_param_names:
+    - jwt
+  enabled: false
+  name: jwt
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+- config:
+    day: null
+    error_code: 429
+    error_message: API rate limit exceeded
+    fault_tolerant: true
+    header_name: null
+    hide_client_headers: false
+    hour: null
+    limit_by: consumer
+    minute: 2
+    month: null
+    path: null
+    policy: local
+    redis:
+      cloud_authentication:
+        auth_provider: null
+        aws_access_key_id: null
+        aws_assume_role_arn: null
+        aws_cache_name: null
+        aws_is_serverless: true
+        aws_region: null
+        aws_role_session_name: null
+        aws_secret_access_key: null
+        azure_client_id: null
+        azure_client_secret: null
+        azure_tenant_id: null
+        gcp_service_account_json: null
+      database: 0
+      host: null
+      password: null
+      port: 6379
+      server_name: null
+      ssl: false
+      ssl_verify: false
+      timeout: 2000
+      username: null
+    redis_database: 0
+    redis_host: null
+    redis_password: null
+    redis_port: 6379
+    redis_server_name: null
+    redis_ssl: false
+    redis_ssl_verify: false
+    redis_timeout: 2000
+    redis_username: null
+    second: null
+    sync_rate: -1
+    year: null
+  enabled: true
+  name: rate-limiting
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: print2fields
+  service: Mask_Fields
+- config:
+    day: null
+    error_code: 429
+    error_message: API rate limit exceeded
+    fault_tolerant: true
+    header_name: null
+    hide_client_headers: false
+    hour: null
+    limit_by: consumer
+    minute: 5
+    month: null
+    path: null
+    policy: local
+    redis:
+      cloud_authentication:
+        auth_provider: null
+        aws_access_key_id: null
+        aws_assume_role_arn: null
+        aws_cache_name: null
+        aws_is_serverless: true
+        aws_region: null
+        aws_role_session_name: null
+        aws_secret_access_key: null
+        azure_client_id: null
+        azure_client_secret: null
+        azure_tenant_id: null
+        gcp_service_account_json: null
+      database: 0
+      host: null
+      password: null
+      port: 6379
+      server_name: null
+      ssl: false
+      ssl_verify: false
+      timeout: 2000
+      username: null
+    redis_database: 0
+    redis_host: null
+    redis_password: null
+    redis_port: 6379
+    redis_server_name: null
+    redis_ssl: false
+    redis_ssl_verify: false
+    redis_timeout: 2000
+    redis_username: null
+    second: null
+    sync_rate: -1
+    year: null
+  enabled: true
+  name: rate-limiting
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: print_full_json
+  service: Mask_Fields
+- enabled: false
+  name: request-id-injector
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+- config:
+    add:
+      headers: []
+      json: []
+      json_types: []
+    append:
+      headers: []
+      json: []
+      json_types: []
+    remove:
+      headers: []
+      json:
+      - city
+    rename:
+      headers: []
+      json: []
+    replace:
+      headers: []
+      json: []
+      json_types: []
+  enabled: true
+  name: response-transformer
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: 3fields
+  service: mock-json-service
+- config:
+    add:
+      headers: []
+      json: []
+      json_types: []
+    append:
+      headers: []
+      json: []
+      json_types: []
+    remove:
+      headers: []
+      json:
+      - state
+      - city
+    rename:
+      headers: []
+      json: []
+    replace:
+      headers: []
+      json: []
+      json_types: []
+  enabled: true
+  name: response-transformer
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: print2fields
+  service: Mask_Fields
+- config:
+    add:
+      headers: []
+      json: []
+      json_types: []
+    append:
+      headers: []
+      json: []
+      json_types: []
+    remove:
+      headers: []
+      json:
+      - city
+    rename:
+      headers: []
+      json: []
+    replace:
+      headers: []
+      json: []
+      json_types: []
+  enabled: true
+  name: response-transformer
+  protocols:
+  - grpc
+  - grpcs
+  - http
+  - https
+  route: print_full_json
+  service: Mask_Fields
+services:
+- connect_timeout: 60000
+  enabled: true
+  host: mocktarget.apigee.net
+  name: Mask_Fields
+  path: /json
+  plugins:
+  - config:
+      allow: []
+      deny:
+      - 192.168.64.1
+      message: null
+      status: null
+    enabled: false
+    name: ip-restriction
+    protocols:
+    - http
+    - https
+    - tcp
+    - tls
+    - grpc
+    - grpcs
+  - config:
+      anonymous: null
+      hide_credentials: false
+      identity_realms:
+      - id: null
+        region: null
+        scope: cp
+      key_in_body: false
+      key_in_header: true
+      key_in_query: true
+      key_names:
+      - apikey
+      realm: null
+      run_on_preflight: true
+    enabled: true
+    name: key-auth
+    protocols:
+    - grpc
+    - grpcs
+    - http
+    - https
+    - ws
+    - wss
+  port: 443
+  protocol: https
+  read_timeout: 60000
+  retries: 5
+  routes:
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: print2fields
+    path_handling: v0
+    paths:
+    - /v1/print2fields
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: print_full_json
+    path_handling: v0
+    paths:
+    - /v1/printfulljson
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  write_timeout: 60000
+- connect_timeout: 60000
+  enabled: true
+  host: mocktarget.apigee.net
+  name: mock-json-service
+  path: /json
+  plugins:
+  - config:
+      anonymous: null
+      hide_credentials: false
+      identity_realms:
+      - id: null
+        region: null
+        scope: cp
+      key_in_body: false
+      key_in_header: true
+      key_in_query: true
+      key_names:
+      - apikey
+      realm: null
+      run_on_preflight: true
+    enabled: true
+    name: key-auth
+    protocols:
+    - grpc
+    - grpcs
+    - http
+    - https
+    - ws
+    - wss
+  port: 443
+  protocol: https
+  read_timeout: 60000
+  retries: 5
+  routes:
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: 3fields
+    path_handling: v0
+    paths:
+    - /api/mock/1
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: json-route
+    path_handling: v0
+    paths:
+    - /api/mock
+    plugins:
+    - config:
+        allow:
+        - Premium
+        always_use_authenticated_groups: false
+        deny: null
+        hide_groups_header: false
+        include_consumer_groups: false
+      enabled: true
+      name: acl
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  write_timeout: 60000
+- connect_timeout: 60000
+  enabled: true
+  host: mocktarget.apigee.net
+  name: partner-data-service
+  path: /json
+  plugins:
+  - config:
+      anonymous: null
+      hide_credentials: false
+      identity_realms:
+      - id: null
+        region: null
+        scope: cp
+      key_in_body: false
+      key_in_header: true
+      key_in_query: true
+      key_names:
+      - apikey
+      realm: null
+      run_on_preflight: true
+    enabled: true
+    name: key-auth
+    protocols:
+    - grpc
+    - grpcs
+    - http
+    - https
+    - ws
+    - wss
+  port: 443
+  protocol: https
+  read_timeout: 60000
+  retries: 5
+  routes:
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: basic-route
+    path_handling: v0
+    paths:
+    - /api/basic-info
+    plugins:
+    - config:
+        allow:
+        - Default
+        always_use_authenticated_groups: false
+        deny: null
+        hide_groups_header: false
+        include_consumer_groups: false
+      enabled: true
+      name: acl
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    - config:
+        allow: null
+        deny:
+        - 192.168.64.1
+        message: null
+        status: null
+      enabled: false
+      name: ip-restriction
+      protocols:
+      - http
+      - https
+      - tcp
+      - tls
+      - grpc
+      - grpcs
+    - config:
+        day: null
+        error_code: 429
+        error_message: API rate limit exceeded
+        fault_tolerant: true
+        header_name: null
+        hide_client_headers: false
+        hour: null
+        limit_by: consumer
+        minute: 3
+        month: null
+        path: null
+        policy: local
+        redis:
+          cloud_authentication:
+            auth_provider: null
+            aws_access_key_id: null
+            aws_assume_role_arn: null
+            aws_cache_name: null
+            aws_is_serverless: true
+            aws_region: null
+            aws_role_session_name: null
+            aws_secret_access_key: null
+            azure_client_id: null
+            azure_client_secret: null
+            azure_tenant_id: null
+            gcp_service_account_json: null
+          database: 0
+          host: null
+          password: null
+          port: 6379
+          server_name: null
+          ssl: false
+          ssl_verify: false
+          timeout: 2000
+          username: null
+        redis_database: 0
+        redis_host: null
+        redis_password: null
+        redis_port: 6379
+        redis_server_name: null
+        redis_ssl: false
+        redis_ssl_verify: false
+        redis_timeout: 2000
+        redis_username: null
+        second: null
+        sync_rate: -1
+        year: null
+      enabled: true
+      name: rate-limiting
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    - config:
+        add:
+          headers: []
+          json: []
+          json_types: []
+        append:
+          headers: []
+          json: []
+          json_types: []
+        remove:
+          headers: []
+          json:
+          - city
+          - state
+        rename:
+          headers: []
+          json: []
+        replace:
+          headers: []
+          json: []
+          json_types: []
+      enabled: true
+      name: response-transformer
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  - https_redirect_status_code: 426
+    methods:
+    - GET
+    name: premium-route
+    path_handling: v0
+    paths:
+    - /api/full-info
+    plugins:
+    - config:
+        day: null
+        error_code: 429
+        error_message: API rate limit exceeded
+        fault_tolerant: true
+        header_name: null
+        hide_client_headers: false
+        hour: null
+        limit_by: consumer
+        minute: 5
+        month: null
+        path: null
+        policy: local
+        redis:
+          cloud_authentication:
+            auth_provider: null
+            aws_access_key_id: null
+            aws_assume_role_arn: null
+            aws_cache_name: null
+            aws_is_serverless: true
+            aws_region: null
+            aws_role_session_name: null
+            aws_secret_access_key: null
+            azure_client_id: null
+            azure_client_secret: null
+            azure_tenant_id: null
+            gcp_service_account_json: null
+          database: 0
+          host: null
+          password: null
+          port: 6379
+          server_name: null
+          ssl: false
+          ssl_verify: false
+          timeout: 2000
+          username: null
+        redis_database: 0
+        redis_host: null
+        redis_password: null
+        redis_port: 6379
+        redis_server_name: null
+        redis_ssl: false
+        redis_ssl_verify: false
+        redis_timeout: 2000
+        redis_username: null
+        second: null
+        sync_rate: -1
+        year: null
+      enabled: true
+      name: rate-limiting
+      protocols:
+      - grpc
+      - grpcs
+      - http
+      - https
+    preserve_host: false
+    protocols:
+    - http
+    - https
+    regex_priority: 0
+    request_buffering: true
+    response_buffering: true
+    strip_path: true
+  write_timeout: 60000
