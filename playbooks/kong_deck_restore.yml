@@ -1,0 +1,13 @@
+---
+- name: Restore Kong Configuration using decK
+  hosts: all
+  become: yes
+
+  vars:
+    kong_admin_url: "http://localhost:8001"
+
+  tasks:
+
+    - name: Sync configuration using decK
+      shell: >
+        deck sync --kong-addr {{ kong_admin_url }} -s {{ restore_file }}
